@@ -2,4 +2,4 @@
 - Estudante do quinto período de informática para internet-IFRJ
 - Iniciante em programação
 - 18 anos
-- Contato: Julianapioalves0@gmail.com
+- Contato: julianapioalves0@gmail.com
